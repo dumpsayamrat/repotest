@@ -5,12 +5,19 @@
 
 - ### EXPERIENCE
      # Proteus Technologies (July 2016 - November 2016)
-     > Experienced in Django framework, AngularJs framework(es6),  ReactJs, Django and AngularJs unit test and node package manager (npm) for javascript test runner, build es6 and css minify
+     - Implement web application based on RESTful and Microservice architecture.
+     - Using Django web framework for development Backend and API.
+     - Using AngularJS framework for development Frontend and UI.
+     - Using Gulp for frontend tasks management.
+     - Using Scrum practice for new features development process.
+     - Using Kanban practice for maintenance process.
 
 - ### EDUCATION 
     # University Of Phayao 
     Bachelor of Engineering in Software Engineering (2013 - 2016)
-    > Focused on Software Engineering, the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method
+     - Focused on Software Engineering, the application of engineering to the design, development, implementation, testing and maintenance of software in a systematic method.
+     - Implement "PhayaoPortal" is web application Using Laravel framework and Elasticsearch.
+     - Implement "Jump framework" is CRUD code generator for Spring framework.
     
 - ### SENOIR PROJECT
     # Jump Framework
@@ -25,11 +32,14 @@
     
     # DATABASE
     > MySQL, PostgreSQL and SQLite
+    
+    # Other Technologies
+    > Github, Ubuntu, Windows, Eclipse, PyCharm, Vim
 
     # Communication Languages
      - > Thai : Native
      
-     - > English: Communicable 
+     - > English: Limited working proficiency
 
 - ### OTHER EXPERIENCE
     - Paticipated in Microsoft Education Road Show & UP IT Open House, 2015
