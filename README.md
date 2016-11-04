@@ -4,7 +4,7 @@
 > sayamrat.kt@gmail.com
 
 - ### EXPERIENCE
-     # Proteus Technologies (July 2016 - November 2016)
+     # Proteus Technologies - Software Developer Internship (July 2016 - November 2016)
      - Implement web application based on RESTful and Microservice architecture.
      - Using Django web framework for development Backend and API.
      - Using AngularJS framework for development Frontend and UI.
